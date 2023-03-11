@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url("cross_road.jpg");
+    background-size: cover;
+}
+
+.poll_1{
+    display: table;
+    background-color: rgb(200, 199, 199);
+    position: relative;
+    top: 20px;
+    left: 93px;
+    border-radius: 3px;
+
+}
+.poll_1 .light_1{
+    width: 50px;
+    height: 50px;
+    margin: 6px;
+    text-align: center;
+    color: white;
+    line-height: 50px;
+    font-size: 22px;
+    box-shadow: 1px 1px 9px -1px white;
+    border-radius: 50%;
+    background-color: black;
+}
+.poll_4{
+    display: table;
+    background-color: rgb(200, 199, 199);
+    position: absolute;
+    top: 20px;
+    left: 85.2%;
+    border-radius: 3px;
+
+}
+.poll_4 .light_4{
+    width: 50px;
+    height: 50px;
+    margin: 6px;
+    text-align: center;
+    color: white;
+    line-height: 50px;
+    font-size: 22px;
+    box-shadow: 1px 1px 9px -1px white;
+    border-radius: 50%;
+    background-color: black;
+}
+
